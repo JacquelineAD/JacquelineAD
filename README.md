@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JacquelineAD/JacquelineAD/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
